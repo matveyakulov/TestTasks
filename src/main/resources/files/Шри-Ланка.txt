@@ -1,0 +1,1 @@
+{"whatsapp":18.0,"meetme":6.5,"testservice":3.5,"wechat":18.0,"telegram":18.0,"ultra_io":6.5,"google":14.5,"instagram":18.0,"foodpanda":12.5,"viber":12.5,"uber":12.5,"microsoft":12.5,"gett":6.5,"taximaxim":6.5,"twitter":6.5,"tinder":12.5,"yahoo":12.5,"3223":12.5,"linemessenger":6.5,"steam":12.5,"olx":6.5,"tencentqq":6.5,"tantan":6.5}

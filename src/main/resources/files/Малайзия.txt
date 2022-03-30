@@ -1,0 +1,1 @@
+{"whatsapp":12.5,"testservice":3.5,"hqtrivia":6.5,"instagram":6.5,"linkedin":2.5,"viber":5.5,"uber":10.0,"microsoft":7.0,"airbnb":2.5,"kakaotalk":2.5,"twitter":2.5,"yahoo":10.0,"linemessenger":2.5,"steam":5.5,"odklru":18.0,"wechat":18.0,"telegram":12.5,"ultra_io":6.5,"google":12.5,"gett":2.5,"tinder":2.5,"mamba":2.5,"3223":7.0,"olx":12.5,"aol":2.5}

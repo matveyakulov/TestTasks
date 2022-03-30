@@ -1,0 +1,1 @@
+{"whatsapp":6.5,"testservice":3.5,"wechat":24.5,"telegram":6.5,"google":6.5,"instagram":10.0,"viber":6.5,"uber":10.0,"microsoft":12.5,"kakaotalk":42.5,"twitter":6.5,"tinder":6.5,"3223":2.5,"steam":6.5}
